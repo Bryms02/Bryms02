@@ -2,7 +2,7 @@
 - 👀 I’m interested in entry level software roles
 - 🌱 I’m currently learning software development using java
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ...Bryms247@gmail.com
 
 <!---
 Bryms02/Bryms02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
